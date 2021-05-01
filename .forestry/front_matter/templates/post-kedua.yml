@@ -1,12 +1,6 @@
 ---
 label: Post Kedua
 hide_body: false
-fields:
-- name: label
-  type: text
-  config:
-    required: false
-  label: label
-  description: awowlwpwlw
+fields: []
 pages:
 - content/posts/post kedua.md
