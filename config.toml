@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://lembahrembulan.onrender.com/"
 languageCode = "en-us"
 title = "Lembah Rembulan"
 theme = "ananke"
